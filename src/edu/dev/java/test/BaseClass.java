@@ -11,6 +11,9 @@ public class BaseClass {//baseclass concept
 	
 	System.out.println(b.add(10, 30));
 	System.out.println(b.add(20, 30));
+	System.out.println(b.add(1000, 5000));
+	System.out.println(b.add(2000, 6000));
+	System.out.println("Hai tamilnadu");
 }
 
 }
